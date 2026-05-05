@@ -1,0 +1,7 @@
+name: KAKC
+version: ${version}
+main: me.desktop.KAKC.Main
+commands:
+  KAKC:
+    description: 여러가지 처리
+    usage: /<command> (<arg1> <arg2> …)
