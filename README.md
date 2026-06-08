@@ -14,6 +14,12 @@ kakc는 Team-MS-2에서 사용하는 경량 유틸리티/테스트 성격의 공
 | Bukkit/Paper 플러그인 | `KAKC` |
 | 메인 클래스 | `me.desktop.KAKC.Main` |
 
+## 주요 기능
+
+- 작은 Kotlin/Java 유틸리티 또는 실험성 기능을 빠르게 검증하는 공개 저장소입니다.
+- Team-MS-2 GitHub 권한과 publish 흐름을 검증하는 경량 프로젝트 역할도 합니다.
+- 운영 플러그인과 분리된 작은 코드 단위를 관리합니다.
+
 ## 저장소 구조
 
 - `gradle/`
